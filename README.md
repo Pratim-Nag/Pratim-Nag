@@ -1,6 +1,6 @@
 ![logo](https://github.com/Pratim-Nag/Pratim-Nag/blob/main/Purple%20White%20Marketing%20Manager%20Modern%20Profile%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Pratim Nag</h1>
-<h3 align="center">A Passionate Computer Engineering Learner from India</h3>
+<h3 align="center">A Passionate Computer Engineering Learner</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
